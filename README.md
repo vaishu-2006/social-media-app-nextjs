@@ -21,7 +21,38 @@ A modern social media platform built using Next.js, TypeScript, and React.
 * React
 * Tailwind CSS
 
+## Installation & Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/vaishu-2006/social-media-app-nextjs.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd social-media-app-nextjs
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Run the application:
+
+```bash
+npm run dev
+```
+
+5. Open in browser:
+
+```text
+http://localhost:3000
+```
+
 ## Author
 
 Vaishnavi P
-
